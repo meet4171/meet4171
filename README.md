@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/meet4171](https://github.com/meet4171)
 
-- 💬 Ask me about **html,css3,js,bootstrap,tailwind**
+- 💬 Ask me about **html , css3 , js , bootstrap , tailwind**
 
 - 📫 How to reach me **meet45jadav@gmail.com**
 
-- ⚡ Fun fact **i am programmer**
+- ⚡ Fun fact **..!..**
+- <img src="https://user-images.githubusercontent.com/97378645/184942378-d9c6a5a6-0d71-4871-8249-c7a3d9319089.jpg">
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
