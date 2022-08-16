@@ -2,7 +2,7 @@
 
  
 <h1 align="center">Hi 👋, I'm Meet Jadav</h1>
-<h3 align="center">A passionate frontend-developer from India</h3>
+<h3 align="center">A Student and passionate frontend-developer from India</h3>
 
 - 🌱 I’m currently learning **designing front-end**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **meet45jadav@gmail.com**
 
-- ⚡ Fun fact **..!..**
+
 
 <p align="left">
 </p>
