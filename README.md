@@ -1,8 +1,11 @@
 
 
  
+.body{
+ background-image:url('https://user-images.githubusercontent.com/97378645/184942378-d9c6a5a6-0d71-4871-8249-c7a3d9319089.jpg')
+}
 
-![My image](https://user-images.githubusercontent.com/97378645/184942378-d9c6a5a6-0d71-4871-8249-c7a3d9319089.jpg)
+![My image]()
 <h1 align="center">Hi 👋, I'm Meet Jadav</h1>
 <h3 align="center">A passionate frontend-developer from India</h3>
 
