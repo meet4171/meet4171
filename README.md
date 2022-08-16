@@ -12,7 +12,7 @@
 - 📫 How to reach me **meet45jadav@gmail.com**
 
 - ⚡ Fun fact **..!..**
-- <img src="https://user-images.githubusercontent.com/97378645/184942378-d9c6a5a6-0d71-4871-8249-c7a3d9319089.jpg">
+- <img src="https://user-images.githubusercontent.com/97378645/184942378-d9c6a5a6-0d71-4871-8249-c7a3d9319089.jpg" width="120px">
 
 <p align="left">
 </p>
