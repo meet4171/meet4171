@@ -2,8 +2,9 @@
 
  
 <h1 align="center">Hi 👋, I'm Meet Jadav</h1>
-<h3 align="center">A Student and passionate frontend-developer from India</h3>
 
+-  A Student and passionate frontend-developer from India
+-  
 - 🌱 I’m currently learning **designing front-end**
 
 - 👨‍💻 All of my projects are available at [https://github.com/meet4171](https://github.com/meet4171)
