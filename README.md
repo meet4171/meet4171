@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/meet4171](https://github.com/meet4171)
 
-- 💬 Ask me about **html , css3 , js , bootstrap , tailwind**
+- 💬 Ask me about **HTML , CSS3 , Javascript , Bootstrap , Tailwind , GSAP ( GeenShock Plugin ) , c ( DSA ) , Python ,Mysql **
 
 - 📫 How to reach me **meet45jadav@gmail.com**
 
