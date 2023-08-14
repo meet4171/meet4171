@@ -18,8 +18,9 @@
 <!--*************** Contact ***************-->
 
 <div align='center'>
- 
-<a href="https://github.com/meet4171?tab=repositories" >
+    <img src="./assets/gifs/smallFire.gif" 
+      alt="gif" height=100 align='centre' style='display:inline-block'>&nbsp;&nbsp;&nbsp
+ <a href="https://github.com/meet4171?tab=repositories" >
     <img src="./assets/badges/Portfolio.svg" 
       alt="portfolio">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,7 +38,9 @@
 <a href="https://twitter.com/meet_s_jadav">
     <img src="./assets/badges/twitter.svg" 
       alt="twitter">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp
+      <img src="./assets/gifs/smallFire.gif" 
+      alt="gif" height=100 align='centre' style='display:inline-block'>
 </div>
 
 <br />
@@ -64,25 +67,45 @@
     Jquery, Bootstrap, Tailwind,
     json-server, Prismic CMS, Chakra-UI , Material-UI any many more..</li><br/>
     <li>🤓 I'm learning how to establish back-end , apis and database with technologies: Node.js , Express.js , mongooseODM , Mongodb , RestAPI , JWT any many more..</li><br/>
-    <!-- <li>💬 Ask me about HTML5 and CSS3.</li> -->
     <li> 📖
  Learning english to achieve fluency.</li><br/>
     <li>🤔 I'm looking to help with open source projects.</li><br/>
     <li>💬 Any help or tips is always welcome!</li><br/>
-    <li>📩 How to reach me: meet45jadav@gmail.com or clicking here <a href = "mailto:meet45jadav@gmail.com"><img src="./assets/badges/Gmail.svg" target="_blank">     </a></li>
+    <li>📩 How to reach me: meet45jadav@gmail.com or clicking here <a href = "mailto:meet45jadav@gmail.com"><img src="./assets/badges/Gmail.svg" align='bottom' target="_blank">     </a></li>
    <br/>
-    <li>❤️ Interests: 💻 Coding , 🎬 watch movies, series and animes , 🎶 listen to music, 🎮 play video games.</li><br/>
+    <li>❤️ Interests: 💻 Coding , 🎬 watch movies, series and animes , 🎶 listen to music, 🎮 play video games.
+    <img 
+    src="./assets/gifs/rolllingcat.gif"
+    height=30
+    align='center'
+    alt="gif" />
+    </li>
+    <br/>
+    <li> Typing speed 80 WPM
+    <img 
+    src="./assets/gifs/monitors-typing.gif"
+    height=50
+    align='center'
+    alt="gif" />
+    </li><br/>
     <li>⚡ Why do programmers prefer using the dark mode?<br/>
     😂 Because light attracts bugs!  
     </li>
   </ul>
 </div>
 
----
+<br/>
 
 <!--*************** Skills ***************-->
-
+<div>
 <h3>🛠️ Tools and Environments 🖥️</h3>
+<img 
+      src="./assets/gifs/codemodeon-code.gif" 
+      alt="gif" align='right' height='50px'>
+</div>
+
+---
+
 <div>
   <img 
     src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -156,10 +179,21 @@
   <img 
     src="https://img.shields.io/badge/Vercel-E6E6FA?style=for-the-badge&amp;logo=Vercel&amp;logoColor=black" 
     alt="vercel">
-
-
 </div>
 </div>
 
-
-    
+<br/><br/><br/>
+<div>
+ <img 
+    src="./assets/gifs/marquee.svg" 
+    alt="vercel"
+     width=100%
+     style='display:inline-block';
+     >
+ <img 
+    src="./assets/gifs/fire-footer.gif" 
+    alt="vercel"
+     width=100%
+     style='display:inline-block';
+     >
+ </div>
