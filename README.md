@@ -19,7 +19,7 @@
 
 <div align='center'>
     <img src="./assets/gifs/smallFire.gif" 
-      alt="gif" height=100 align='centre' style='display:inline-block'>&nbsp;&nbsp;&nbsp
+      alt="gif" height=100 align='centre' style='display:inline-block'>&nbsp;
  <a href="https://github.com/meet4171?tab=repositories" >
     <img src="./assets/badges/Portfolio.svg" 
       alt="portfolio">
@@ -38,7 +38,7 @@
 <a href="https://twitter.com/meet_s_jadav">
     <img src="./assets/badges/twitter.svg" 
       alt="twitter">
-  </a>&nbsp;&nbsp;&nbsp
+  </a>&nbsp;
       <img src="./assets/gifs/smallFire.gif" 
       alt="gif" height=100 align='centre' style='display:inline-block'>
 </div>
@@ -81,7 +81,7 @@
     alt="gif" />
     </li>
     <br/>
-    <li> Typing speed 80 WPM
+    <li> ⌨️ Typing speed 80 WPM
     <img 
     src="./assets/gifs/monitors-typing.gif"
     height=50
@@ -183,17 +183,16 @@
 </div>
 
 <br/><br/><br/>
+<!--*************** Footer ***************-->
 <div>
  <img 
     src="./assets/gifs/marquee.svg" 
     alt="vercel"
      width=100%
-     style='display:inline-block';
      >
  <img 
-    src="./assets/gifs/fire-footer.gif" 
+    src="./assets/gifs/footer.svg" 
     alt="vercel"
-     width=100%
-     style='display:inline-block';
+    width=100%
      >
  </div>
