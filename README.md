@@ -24,7 +24,7 @@
     <img src="./assets/badges/Portfolio.svg" 
       alt="portfolio">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/">
+  <a href="https://drive.google.com/file/d/1jXnpVLlgKs0QbLgKQhVTI9K3iHJL67-H/view?usp=drive_link">
     <img src="./assets/badges/Resume.svg" 
       alt="resume">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
