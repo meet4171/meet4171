@@ -131,6 +131,9 @@
   <img 
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" 
     alt="javascript">
+    <img 
+    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
+    alt="python">
   <img 
     src="https://img.shields.io/badge/React-0D0627?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" 
     alt="react">
@@ -161,15 +164,15 @@
 <img 
     src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" 
     alt="react-router">
-<img 
+<!-- <img 
     src="https://img.shields.io/badge/chakra_ui-319795?style=for-the-badge&amp;logo=chakra-ui&amp;logoColor=white" 
-    alt="chakra-ui">
+    alt="chakra-ui"> -->
 <img 
     src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" 
     alt="Tailwindcss">
-  <img 
+<!--   <img 
     src="https://img.shields.io/badge/materialui-007EFD?style=for-the-badge&amp;logo=materialui&amp;logoColor=white" 
-    alt="Tailwindcss">  
+    alt="Tailwindcss">   -->
   <img 
     src="https://img.shields.io/badge/BootStrap-6E42A2?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" 
     alt="bootstrap">
