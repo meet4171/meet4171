@@ -1,6 +1,6 @@
 <!-- *************** Starry Space Background *************** -->
 <div style="
-  background-image: url('https://i.imgur.com/qg4YQGZ.gif'); 
+  background-image: url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpnNnlvc3R2eWppc25tZWFzNHRzZGdyZ2Mwd25yZzBjcWc3ZXg3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UYBDCJjwOd9Re/giphy.gif'); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
