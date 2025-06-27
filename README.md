@@ -1,12 +1,25 @@
 <!--*************** Title ***************-->
-<img src="./assets/gifs/wavingHand.gif"
-    width="30px" align='top'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3500&repeat=false&pause=1000se&color=20C20E&vCenter=true&width=450&lines=Hello+I+AM+Meet+Jadav" alt="Typing SVG" />
-</a> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3500&pause=1500&color=20C20E&vCenter=true&width=450&lines=A+C.E+Student;A+FullStack+Developer;A+Lifetime+Learner+:)" alt="Typing SVG" /></a>
-<img src="./assets/gifs/codingCat.gif"
-    width="60">
- ---
+<div align="center">
+  <img src="./assets/gifs/wavingHand.gif" width="30px" alt="Waving Hand" />
+
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3500&repeat=false&pause=1000&color=20C20E&vCenter=true&width=450&lines=Hello+I+AM+Meet+Jadav" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3500&pause=1500&color=20C20E&vCenter=true&width=450&lines=A+C.E+Student;A+FullStack+Developer;A+Lifetime+Learner+:)" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <img src="./assets/gifs/codingCat.gif" width="60" alt="Coding Cat" />
+</div>
+
+<hr/>
 <!--*************** Front cover ***************-->
 <div>
   <img
