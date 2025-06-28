@@ -16,7 +16,9 @@
 
   <br/>
 
-  <img src="./assets/gifs/codingCat.gif" width="60" alt="Coding Cat" />
+  <!--<img src="./assets/gifs/codingCat.gif" width="60" alt="Coding Cat" />-->
+  <img src="./assets/gifs/welcome.gif"  alt="welcome text" />
+  
 </div>
 
 <hr/>
