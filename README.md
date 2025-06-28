@@ -1,6 +1,8 @@
 <!--*************** Title ***************-->
+
 <div align="center">
-  <img src="./assets/gifs/wavingHand.gif" width="30px" alt="Waving Hand" />
+    
+  <img src="./assets/gifs/wavingHand.gif" width="70" alt="Waving Hand" />
 
   <br/>
 
@@ -16,8 +18,8 @@
 
   <br/>
 
-  <!--<img src="./assets/gifs/codingCat.gif" width="60" alt="Coding Cat" />-->
-  <img src="./assets/gifs/welcome.gif"  alt="welcome text" />
+  <img src="./assets/gifs/codingCat.gif" width="100" alt="Coding Cat" />
+
   
 </div>
 
