@@ -1,218 +1,105 @@
-<!--*************** Title ***************-->
-
+<!-- *************** TITLE *************** -->
 <div align="center">
-    
   <img src="./assets/gifs/wavingHand.gif" width="70" alt="Waving Hand" />
-
   <br/>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3500&repeat=false&pause=1000&color=20C20E&vCenter=true&width=450&lines=Hello+I+AM+Meet+Jadav" alt="Typing SVG" />
   </a>
-
   <br/><br/>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3500&pause=1500&color=20C20E&vCenter=true&width=450&lines=A+C.E+Student;A+FullStack+Developer;A+Lifetime+Learner+:)" alt="Typing SVG" />
   </a>
-
   <br/>
-
   <img src="./assets/gifs/codingCat.gif" width="100" alt="Coding Cat" />
-
-  
 </div>
 
 <hr/>
-<!--*************** Front cover ***************-->
-<div>
-  <img
-    src="./assets/gifs/profileGif.gif" 
-    alt="mario coding"
-    />
-</div>
-<br/>
-<!--*************** Contact ***************-->
 
-<div align='center'>
-    <img src="./assets/gifs/smallFire.gif" 
-      alt="gif" height=100 align='centre' style='display:inline-block'>&nbsp;
- <a href="https://github.com/meet4171?tab=repositories" >
-    <img src="./assets/badges/Portfolio.svg" 
-      alt="portfolio">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/11ICDpYbj96dGgfGFfZZdwRUrEpcYdyR0/view?usp=drive_link">
-    <img src="./assets/badges/Resume.svg" 
-      alt="resume">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:meet45jadav@gmail.com">
-    <img src="./assets/badges/Gmail.svg" alt="gmail">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/meet4171">
-    <img src="./assets/badges/linkedIn.svg" 
-  alt="LinkedIn">&nbsp;&nbsp;&nbsp;
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/meet_s_jadav">
-    <img src="./assets/badges/twitter.svg" 
-      alt="twitter">
-  </a>&nbsp;
-      <img src="./assets/gifs/smallFire.gif" 
-      alt="gif" height=100 align='centre' style='display:inline-block'>
-</div>
-
-<br />
-
-
-<!--*************** About ***************-->
-<div>
-<h3 style="margin:0" align='left'> 🚀 About me...</h3>
-    <img 
-      src="./assets/gifs/hello.gif" 
-      alt="gif" align='right' height='50px'>
-</div>
-
-
----
-<div>
-  <ul>
-    <li>💻 MERN Stack Developer</li><br/>
-    <li>📌 I live in Ahmedabad.</li><br/>
-    <li>🔭 I'm currently a FullStack development student, passionate about trending technologies and delighted with the power of programming.</li><br/>
-    <li>🌱 I’m going deeper into React JS, Redux JS and Next JS.</li><br/>
-    <li>📚🎓👨‍🎓 I will be graduated in Computer Science and Engg in 2025 from LJ Institute of Engg and Tech.</li><br/>
-    <li>🤓 I'm learning front-end development with technologies: React.js, Next.js, TypeScript,
-    Jquery, Bootstrap, Tailwind,
-    json-server, Prismic CMS, Chakra-UI , Material-UI any many more..</li><br/>
-    <li>🤓 I'm learning how to establish back-end , apis and database with technologies: Node.js , Express.js , mongooseODM , Mongodb , RestAPI , JWT any many more..</li><br/>
-    <li> 📖
- Learning english to achieve fluency.</li><br/>
-    <li>🤔 I'm looking to help with open source projects.</li><br/>
-    <li>💬 Any help or tips is always welcome!</li><br/>
-    <li>📩 How to reach me: meet45jadav@gmail.com or clicking here <a href = "mailto:meet45jadav@gmail.com"><img src="./assets/badges/Gmail.svg" align='bottom' target="_blank">     </a></li>
-   <br/>
-    <li>❤️ Interests: 💻 Coding , 🎬 watch movies, series and animes , 🎶 listen to music, 🎮 play video games.
-    <img 
-    src="./assets/gifs/rolllingcat.gif"
-    height=30
-    align='center'
-    alt="gif" />
-    </li>
-    <br/>
-    <li> ⌨️ Typing speed 80 WPM
-    <img 
-    src="./assets/gifs/monitors-typing.gif"
-    height=50
-    align='center'
-    alt="gif" />
-    </li><br/>
-    <li>⚡ Why do programmers prefer using the dark mode?<br/>
-    😂 Because light attracts bugs!  
-    </li>
-  </ul>
+<!-- *************** FRONT COVER *************** -->
+<div style="width: 100%; text-align: center;">
+  <img src="./assets/gifs/profileGif.gif" alt="Profile GIF" style="max-width: 100%; height: auto;" />
 </div>
 
 <br/>
 
-<!--*************** Skills ***************-->
-<div>
+<!-- *************** CONTACT *************** -->
+<div align="center">
+  <img src="./assets/gifs/smallFire.gif" height="100" alt="Fire" />
+  <a href="https://github.com/meet4171?tab=repositories"><img src="./assets/badges/Portfolio.svg" alt="Portfolio"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/11ICDpYbj96dGgfGFfZZdwRUrEpcYdyR0/view?usp=drive_link"><img src="./assets/badges/Resume.svg" alt="Resume"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:meet45jadav@gmail.com"><img src="./assets/badges/Gmail.svg" alt="Gmail"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/meet4171"><img src="./assets/badges/linkedIn.svg" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/meet_s_jadav"><img src="./assets/badges/twitter.svg" alt="Twitter"></a>
+  <img src="./assets/gifs/smallFire.gif" height="100" alt="Fire" />
+</div>
+
+<br/>
+
+<!-- *************** ABOUT *************** -->
+<h3 align="left">🚀 About me...</h3>
+<img src="./assets/gifs/hello.gif" alt="Hello" align="right" height="50px" />
+
+<ul>
+  <li>💻 Full Stack Web Developer at <strong>Ackplus Solutions Pvt. Ltd.</strong></li>
+  <li>📍 Rajkot, Gujarat, India</li>
+  <li>🎓 Graduated (B.Tech) from LJ Institute of Engineering & Technology, 2025</li>
+  <li>👨‍💻 Working with <strong>Next.js</strong>, <strong>NestJS</strong>, <strong>Node.js</strong>, <strong>TypeScript</strong>, <strong>MUI</strong></li>
+  <li>🔗 Monorepo experience with <strong>NX</strong>, Git & GitHub</li>
+  <li>🛢️ Proficient in <strong>PL/SQL/MongoDB</strong> and scalable backend systems</li>
+  <li>🚀 Passionate about clean code, architecture, and UX</li>
+  <li>📚 Lifelong learner and open-source enthusiast</li>
+  <li>💬 Email: <a href="mailto:meet45jadav@gmail.com">meet45jadav@gmail.com</a></li>
+  <li>❤️ Interests: Coding, Anime, Movies, Music, Gaming <img src="./assets/gifs/rolllingcat.gif" height="30" alt="Cat" /></li>
+  <li>⌨️ Typing Speed: 80 WPM <img src="./assets/gifs/monitors-typing.gif" height="50" alt="Typing" /></li>
+  <li>⚡ Fun Fact: Why do programmers prefer dark mode? 😂 Because light attracts bugs!</li>
+</ul>
+
+<br/>
+
+<!-- *************** SKILLS *************** -->
 <h3>🛠️ Tools and Environments 🖥️</h3>
-<img 
-      src="./assets/gifs/codemodeon-code.gif" 
-      alt="gif" align='right' height='50px'>
-</div>
-
----
+<img src="./assets/gifs/codemodeon-code.gif" alt="Code Mode" align="right" height="50px" />
 
 <div>
-  <img 
-    src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-    alt="Git" />
-  <img 
-    src="https://img.shields.io/badge/GitHub-008080?style=for-the-badge&logo=git&logoColor=white"
-    alt="Git" />
-  <img 
-    src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" 
-    alt="NPM" />
-  <img 
-    src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" 
-    alt="Yarn" />
-  <img 
-    src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" 
-    alt="vs-code">
-  <img 
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" 
-    alt="html">
-  <img 
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" 
-    alt="css">
-  <img 
-    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" 
-    alt="javascript">
-    <img 
-    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
-    alt="python">
-  <img 
-    src="https://img.shields.io/badge/React-0D0627?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" 
-    alt="react">
-  <img 
-    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node&amp;logoColor=61DAFB" 
-    alt="react">
-  <img 
-    src="https://img.shields.io/badge/MongoDB-800080?style=for-the-badge&amp;logo=node&amp;logoColor=61DAFB" 
-    alt="react">
-  <img 
-    src="https://img.shields.io/badge/Express.js-FF00FF?style=for-the-badge&amp;logo=node&amp;logoColor=61DAFB" 
-    alt="react">
-  <img 
-    src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&amp;logo=node&amp;logoColor=61DAFB" 
-    alt="react">
-  <img 
-    src="https://img.shields.io/badge/GSAP-API-88CE02?style=for-the-badge&amp;logo=node&amp;logoColor=61DAFB" 
-    alt="react">
-  <img 
-    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" 
-    alt="typescript">
-  <!-- <img 
-    src="https://img.shields.io/badge/Next-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FFFFFF" 
-    alt="next"> -->
- <img 
-    src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" 
-    alt="jquery">
-<img 
-    src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" 
-    alt="react-router">
-<!-- <img 
-    src="https://img.shields.io/badge/chakra_ui-319795?style=for-the-badge&amp;logo=chakra-ui&amp;logoColor=white" 
-    alt="chakra-ui"> -->
-<img 
-    src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" 
-    alt="Tailwindcss">
-<!--   <img 
-    src="https://img.shields.io/badge/materialui-007EFD?style=for-the-badge&amp;logo=materialui&amp;logoColor=white" 
-    alt="Tailwindcss">   -->
-  <img 
-    src="https://img.shields.io/badge/BootStrap-6E42A2?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" 
-    alt="bootstrap">
-  <img 
-    src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" 
-    alt="bootstrap">
-  <img 
-    src="https://img.shields.io/badge/Vercel-E6E6FA?style=for-the-badge&amp;logo=Vercel&amp;logoColor=black" 
-    alt="vercel">
-</div>
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  <!-- Editor -->
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/TypeORM-FE895B?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+  <!-- Monorepo & Deployment -->
+  <img src="https://img.shields.io/badge/NX-143055?style=for-the-badge&logo=nx&logoColor=white" alt="NX" />
+  <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 
-<br/><br/><br/>
-<!--*************** Footer ***************-->
+<br/><br/>
+
+<!-- *************** FOOTER *************** -->
 <div>
- <img 
-    src="./assets/gifs/marquee.svg" 
-    alt="vercel"
-     width=100%
-     >
- <img 
-    src="./assets/gifs/footer.svg" 
-    alt="vercel"
-    width=100%
-     >
- </div>
+  <img src="./assets/gifs/marquee.svg" alt="Marquee" width="100%" />
+  <img src="./assets/gifs/footer.svg" alt="Footer" width="100%" />
+</div>
