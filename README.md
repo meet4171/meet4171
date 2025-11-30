@@ -27,7 +27,7 @@
   <img src="./assets/gifs/smallFire.gif" height="100" alt="Fire" />
   <a href="https://github.com/meet4171?tab=repositories"><img src="./assets/badges/Portfolio.svg" alt="Portfolio"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/11ICDpYbj96dGgfGFfZZdwRUrEpcYdyR0/view?usp=drive_link"><img src="./assets/badges/Resume.svg" alt="Resume"></a>
+  <a href="https://drive.google.com/file/d/1haq_LLvfuV2yek26ToxQ71mkW9ns0Ywt/view?usp=sharing"><img src="./assets/badges/Resume.svg" alt="Resume"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:meet45jadav@gmail.com"><img src="./assets/badges/Gmail.svg" alt="Gmail"></a>
   &nbsp;&nbsp;&nbsp;
